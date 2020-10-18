@@ -163,7 +163,7 @@ function draw ()
     strokeWeight(5);
     line(0, y, windowWidth, y);
     y += 50;
-    text("made by TanishShinde using p5.js", width / 2, y);
+    text("made using p5.js", width / 2, y);
     y += 20;
     readMoreLink.position(width / 2 - 40, y);
     strokeWeight(1);
